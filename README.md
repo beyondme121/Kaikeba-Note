@@ -5,3 +5,5 @@
 - git commit -a -m "提交差异" 
 
 - git commit -am "继续修改并commit"    简写方式
+
+- git push
