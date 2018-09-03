@@ -12,3 +12,6 @@
 git add 01.js 或者  git add .       当前目录下的所有新增的文件
 
 git commit -am 添加新文件
+
+
+hello
