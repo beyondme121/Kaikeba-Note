@@ -7,3 +7,7 @@
 - git commit -am "继续修改并commit"    简写方式
 
 - git push
+
+- 添加文件
+git add 01.js
+git commit -am 添加新文件
